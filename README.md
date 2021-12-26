@@ -7,6 +7,7 @@ Install the dependencies
 
 ```bash
 $ git clone https://github.com/chauhanmahavir/Hand-Detection-On-Live-Feed.git
+$ cd Hand-Detection-On-Live-Feed
 $ pip install -r requirements.txt
 $ python main.py
 ```
