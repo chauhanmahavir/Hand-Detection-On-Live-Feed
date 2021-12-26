@@ -13,7 +13,7 @@ $ python main.py
 
 ## Demo Video
 
-![Demo.gif](https://github.com/chauhanmahavir/Hand-Detection-On-Live-Feed/blob/main/GIF/demo.gif)
+![Demo.gif](https://github.com/chauhanmahavir/Hand-Detection-On-Live-Feed/blob/main/GIF/Demo.gif)
 
 
 ## Profiles
